@@ -1,2 +1,2 @@
-# Send-SMTP-Email-using-C-
+# Send-SMTP-Email-using-(C#)
 Windows Form Application
